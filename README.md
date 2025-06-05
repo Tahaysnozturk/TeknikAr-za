@@ -56,13 +56,9 @@ Bu uygulama, teknik servis birimlerinde arıza kayıtlarını yönetmek için ge
    
    Open Folder
    
-   1
+   1  pip install PyQt5
+   2 python teknik_Arıza.py
    
-   2
-   
-   pip install PyQt5
-   
-   python teknik_Arıza.py
 ## Veritabanı
 Uygulama SQLite veritabanı kullanmaktadır. Veritabanı dosyası ( teknik_servis.db ) otomatik olarak oluşturulur ve yönetilir.
 
