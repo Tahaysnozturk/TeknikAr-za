@@ -16,46 +16,12 @@ Bu uygulama, teknik servis birimlerinde arıza kayıtlarını yönetmek için ge
 - SQLite (Veritabanı)
 ## Kurulum
 1. Uygulamayı çalıştırmak için:
-   
    - Dağıtım klasöründeki ( dist ) teknik_Arıza.exe dosyasını çalıştırın
 2. Geliştirici kurulumu için:
-pip install PyQt5
-python teknik_Arıza.py
-
-Trae
-
-Projenin içeriğini daha iyi anlamak için Python dosyasını inceleyeceğim.
-
-teknik_Arıza.py :( 1 - 200 )
-
-# Teknik Servis Arıza Takip Uygulaması
-## Proje Açıklaması
-Bu uygulama, teknik servis birimlerinde arıza kayıtlarını yönetmek için geliştirilmiş bir masaüstü yazılımıdır. PyQt5 kullanılarak oluşturulmuş kullanıcı dostu bir arayüze sahiptir.
-
-## Özellikler
-- Arıza kaydı oluşturma ve yönetme
-- Birim ve cihaz bilgilerini kaydetme
-- Detaylı arıza tanımı girişi
-- Kayıtları listeleme ve arama
-- Kayıt düzenleme ve silme
-- Kayıtları yazdırma özelliği
-- Modern ve kullanıcı dostu arayüz
-## Teknolojiler
-- Python
-- PyQt5 (GUI Framework)
-- SQLite (Veritabanı)
-## Kurulum
-1. Uygulamayı çalıştırmak için:
-   
-   - Dağıtım klasöründeki ( dist ) teknik_Arıza.exe dosyasını çalıştırın
-2. Geliştirici kurulumu için:
-   
    bash
-   
    Run
-   
    Open Folder
-   
+
    1  pip install PyQt5
    2 python teknik_Arıza.py
    
