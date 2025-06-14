@@ -40,7 +40,7 @@ Uygulama SQLite veritabanı kullanmaktadır. Veritabanı dosyası ( teknik_servi
 ## Katkıda Bulunma
 Projeye katkıda bulunmak için:
 
-1. Bu depoyu fork edin
+1. Bu depoyu fark edin
 2. Yeni bir özellik dalı oluşturun
 3. Değişikliklerinizi commit edin
 4. Dalınızı ana depoya push edin
